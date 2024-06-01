@@ -1,8 +1,5 @@
 let express = require('express');
 let app = express();
-
-let express = require('express');
-let app = express();
 require('dotenv').config();
 
 // #1
